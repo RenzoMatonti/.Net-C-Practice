@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zblac\\source\\repos\\Playing\\Playing\\ReadFile.csproj",
+      "projectUniqueName": "C:\\Users\\zblac\\Desktop\\.Net\\.Net-C-Practice\\ReadFile\\ReadFile.csproj",
       "projectName": "ReadFile",
-      "projectPath": "C:\\Users\\zblac\\source\\repos\\Playing\\Playing\\ReadFile.csproj",
+      "projectPath": "C:\\Users\\zblac\\Desktop\\.Net\\.Net-C-Practice\\ReadFile\\ReadFile.csproj",
       "packagesPath": "C:\\Users\\zblac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zblac\\source\\repos\\Playing\\Playing\\obj\\",
+      "outputPath": "C:\\Users\\zblac\\Desktop\\.Net\\.Net-C-Practice\\ReadFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zblac\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,8 @@ namespace ReadFile {
         {
             int cantidad = 0;
             string linea;
+
+            // Location of the file to read
             string filename = "C:\\test.txt";
 
             // Read the file and display it line by line
