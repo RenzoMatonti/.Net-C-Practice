@@ -1,0 +1,11 @@
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.exe
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.deps.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.dev.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\ReadFile.pdb
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\ReadFile.csprojAssemblyReference.cache
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfoInputs.cache
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfo.cs
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\ReadFile.dll
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\ReadFile.pdb

@@ -1,0 +1,11 @@
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\Playing.csprojAssemblyReference.cache
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\Playing.AssemblyInfoInputs.cache
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\Playing.AssemblyInfo.cs
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.exe
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.deps.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.runtimeconfig.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.runtimeconfig.dev.json
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.dll
+C:\Users\zblac\source\repos\Playing\Playing\bin\Debug\netcoreapp3.1\Playing.pdb
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\Playing.dll
+C:\Users\zblac\source\repos\Playing\Playing\obj\Debug\netcoreapp3.1\Playing.pdb
