@@ -14,3 +14,7 @@ ReadFile/obj/Debug/netcoreapp3.1/ReadFile.csproj.FileListAbsolute.txt
 ReadFile/obj/Debug/netcoreapp3.1/ReadFile.csproj.FileListAbsolute.txt
 *.cache
 *.cache
+Calculator/.vs/Calculator/DesignTimeBuild/.dtbcache
+Calculator/.vs/Calculator/v16/.suo
+Calculator/.vs/Calculator/v16/Server/sqlite3/db.lock
+Calculator/.vs/Calculator/v16/Server/sqlite3/storage.ide

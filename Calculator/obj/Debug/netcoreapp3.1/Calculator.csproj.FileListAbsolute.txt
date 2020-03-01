@@ -1,0 +1,11 @@
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
