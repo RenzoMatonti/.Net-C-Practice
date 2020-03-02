@@ -1,0 +1,6 @@
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\bin\Debug\AmountOfVocals.exe.config
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\bin\Debug\AmountOfVocals.exe
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\bin\Debug\AmountOfVocals.pdb
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\obj\Debug\AmountOfVocals.csprojAssemblyReference.cache
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\obj\Debug\AmountOfVocals.exe
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\obj\Debug\AmountOfVocals.pdb

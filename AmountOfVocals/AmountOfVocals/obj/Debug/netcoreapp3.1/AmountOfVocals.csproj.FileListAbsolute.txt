@@ -1,0 +1,11 @@
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.exe
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.deps.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.runtimeconfig.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.runtimeconfig.dev.json
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.dll
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\bin\Debug\netcoreapp3.1\AmountOfVocals.pdb
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\obj\Debug\netcoreapp3.1\AmountOfVocals.csprojAssemblyReference.cache
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\obj\Debug\netcoreapp3.1\AmountOfVocals.AssemblyInfoInputs.cache
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\obj\Debug\netcoreapp3.1\AmountOfVocals.AssemblyInfo.cs
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\obj\Debug\netcoreapp3.1\AmountOfVocals.dll
+C:\Users\zblac\Desktop\.Net\.Net-C-Practice\AmountOfVocals\AmountOfVocals\obj\Debug\netcoreapp3.1\AmountOfVocals.pdb
