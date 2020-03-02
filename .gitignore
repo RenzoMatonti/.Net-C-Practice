@@ -18,3 +18,17 @@ Calculator/.vs/Calculator/DesignTimeBuild/.dtbcache
 Calculator/.vs/Calculator/v16/.suo
 Calculator/.vs/Calculator/v16/Server/sqlite3/db.lock
 Calculator/.vs/Calculator/v16/Server/sqlite3/storage.ide
+ReadFile/.vs/ReadFile/DesignTimeBuild/.dtbcache
+ReadFile/obj/Debug/netcoreapp3.1/ReadFile.pdb
+ReadFile/obj/Debug/netcoreapp3.1/ReadFile.dll
+ReadFile/obj/Debug/netcoreapp3.1/ReadFile.csprojAssemblyReference.cache
+ReadFile/bin/Debug/netcoreapp3.1/ReadFile.pdb
+ReadFile/obj/Debug/netcoreapp3.1/ReadFile.csproj.FileListAbsolute.txt
+ReadFile/bin/Debug/netcoreapp3.1/ReadFile.dll
+ReadFile/.vs/ReadFile/v16/.suo
+AmountOfVocals/.vs/AmountOfVocals/v16/.suo
+AmountOfVocals/.vs/AmountOfVocals/DesignTimeBuild/.dtbcache
+*.pdb
+*.dll
+*.cache
+*.txt
